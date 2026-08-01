@@ -7,12 +7,12 @@
 body{
     font-family:Arial,helvetica,sans-serif;
     line-height:1.6;
-    background-color: #614497;
+    background-color: #aea3c20e;
     color:#333333;
     padding:20px;
 }
 header{
-    background-color:#6058b9;
+    background-color:oklab(73.32499999999999% -0.10531 -0.05814 / 0.89);
     color:#333333;
     padding:30px;
     text-align:center;
@@ -24,4 +24,12 @@ nav{
     margin-top:20px;
     flex-wrap:wrap;
     display:flex;
+}
+nav a{
+    color:#6058b9
+    text-decoration:none;
+    font-weight:bold;
+}
+nav a:hover{
+    text-decoration:undecline;
 }
