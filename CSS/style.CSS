@@ -4,3 +4,16 @@
     box-sizing: border-box;
 
 }
+body{
+    font-family:Arial,helvetica,sans-serif;
+    line-height:1.6;
+    background-color: #449744;
+    color:#333333;
+    padding:20px;
+}
+header{
+    background-color:#6058b9;
+    color:#fbfdfb
+    padding:30px;
+    text-align:center;
+}
