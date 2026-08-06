@@ -19,7 +19,7 @@ header{
 }
 nav{
     background-color:#fdfbfb;
-    justify-content"center;
+    justify-content:center;
     gap:25px;
     margin-top:20px;
     flex-wrap:wrap;
@@ -40,12 +40,17 @@ main{
 
 }
 section{
-    margin-botto:  30px;
+    margin-bottom:  30px;
     background-color:#08a7c0;
     padding : 20px;
     border-radius:20px;
 }
-h2{
-    color:#fdfbfb;
+h2
+{
+    color:#0cf789;
+    margin-bottom:10px;
+}
+p{
+    color:hsl(352, 90%, 43%);
     margin-bottom:10px;
 }
