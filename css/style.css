@@ -12,8 +12,8 @@ body{
     padding:20px;
 }
 header{
-    background-color:oklab(73.32499999999999% -0.10531 -0.05814 / 0.89);
-    color:#333333;
+    background-color:#6058b9;
+    color:#fdfbfb;;
     padding:30px;
     text-align:center;
 }
@@ -26,10 +26,26 @@ nav{
     display:flex;
 }
 nav a{
-    color:#6058b9
+    color:#6058b9;
     text-decoration:none;
     font-weight:bold;
 }
 nav a:hover{
-    text-decoration:undecline;
+    text-decoration: underline;
+}
+main{
+    margin:auto;
+    width:90%;
+    margin-top:30px;
+
+}
+section{
+    margin-botto:  30px;
+    background-color:#08a7c0;
+    padding : 20px;
+    border-radius:20px;
+}
+h2{
+    color:#fdfbfb;
+    margin-bottom:10px;
 }
